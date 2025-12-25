@@ -1,0 +1,8 @@
+{
+  "name": "AutoVid Faceless Creator",
+  "description": "An autopilot SaaS platform for generating, producing, and scheduling faceless video content for YouTube using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
